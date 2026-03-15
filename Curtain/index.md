@@ -18,14 +18,14 @@
 ---
 
 - Watch out for who controls ***The Curtain*** and for manipulation
-- ***DO NOT TRUST* WHAT YOU SEE! *Opsin Stimulation* and *Perception Influence* will most definitely be applied**
+- **DO NOT** trust what you **see**. *Opsin Stimulation* and *Perception Influence* will most definitely be applied
 - Computer Cursor
 
 ---
 
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and green light excitation are specialized components used for high-precision visual stimulation and optogenetic control.
 
-## 1. **FED-Based Visual Stimulation: 
+## 1. FED-Based Visual Stimulation: 
 Field Emission Displays are utilized in BMIs—specifically those relying on Steady-State Visually Evoked Potentials (SSVEP)—because of their superior temporal resolution and ability to produce high-frequency flickers without the lag or "ghosting" found in LCDs. 
 
 - *Precision Timing*: FEDs can deliver extremely precise stimulation frequencies (e.g., 7–10 Hz) with error rates as low as 0.15%.

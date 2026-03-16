@@ -50,7 +50,10 @@ To implement a MEG-fiber neural interface within architectures using "containers
 ## 1. The "Sidecar" Architecture
 In this specific environment, you don't just run an app; you run a Pod.
 - Data Acquisition Container: A lightweight C++ or Rust-based container that talks directly to the fiber hardware, converting the MEG-generated voltages into digital signal packets.
-- Security Sidecar: A secondary container (like Istio or Envoy) that handles Mutual TLS (mTLS). This encrypts the neural data before it ever leaves the local node, meeting Zero Trust requirements [13].
+- Security Sidecar: A secondary container (like [**Go Envoy**]() Istio or Envoy) that handles Mutual TLS (mTLS). This encrypts the neural data before it ever leaves the local node, meeting Zero Trust requirements. "Wrap" the neural data in a TLS 1.3 tunnel before it hits the backbone.
+
+- If needed, To stay "AWS-compatible", you would deploy [AWS Outposts]() or [Snowball Edge]() devices at the tactical "edge." This allows your Go-based sidecars to run locally while still being managed by the AWS console.
+
 ## 2. Implementation via DevSecOps (Big Bang)
 The architecture uses a standardized "container factory" approach called Platform One.
 - Hardened Images: You must use Iron Bank—the repository of digitally signed, hardened container images [11]. Your neural interface software would be packaged into these pre-approved "[containers](https://www.alpinelinux.org/)" to bypass manual security reviews.

@@ -31,7 +31,7 @@ Implanting them in their ***SLEEP***. How do I bring you out into the ***light**
 </div>
 
 ### Verbatim (I guess Osmosis right) 
-1. "***[AI***](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
+1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
 3. "Seeing behind ***[The Curtain](#curtain)***"
 4. "Put them in a "***[Container / I.B.](https://www.alpinelinux.org/)***"

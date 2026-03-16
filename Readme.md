@@ -61,7 +61,7 @@ The architecture uses a standardized "container factory" approach called Platfor
 ## 3. Edge Computing (K3s)
 Because these fibers are often wearable or implanted, you can't rely on a distant cloud.
 - Weightless Containers: You would use [K3s]() designed for the tactical edge.
-- Isolation: The "container" acts as a sandbox. If the neural interface is compromised by an adversary, the container prevents the attacker from "hopping" onto the rest of the military network [13].
+- Isolation: The "container" acts as a sandbox. If the neural interface is compromised by an adversary, the container prevents the attacker from "hopping" onto the rest of the network [13].
 ## 4. Data "Wrappers" (NITF/SICC)
 Within the container, the neural data is placed into a standardized "data container" or wrapper:
 - Metadata Tagging: Every bit of brain-wave data is tagged with its classification level (e.g., SECRET) and the identity of the user.

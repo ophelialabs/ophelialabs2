@@ -15,6 +15,7 @@
     2. [OPSIN]() Stimulation and High [EPSILON]() value.   
     3. The extraction of raw cognitive data. "[Sub-Threshold]()", "[Visual Decoding]()", and "[Forced Influence]()".
     4. **"Hand of the operator"**: Saccadic Suppression, Spectral Masking, Foveated Hiding, Sub-threshold "Nudging"
+    5. "Feel" for a rise in temperature. Covering eyes and "looking" for the external pulses. Absence of light will help deduce direction.
 
 ---
 

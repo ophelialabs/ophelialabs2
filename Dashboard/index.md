@@ -362,5 +362,3 @@ Broadcom DX NetOps transforms the quantum network from a **static map** into a *
 4. **Guides investment** with data-driven recommendations
 5. **Supports operations** with intelligent dashboards
 
-The Cairo Hub case study exemplifies the impact: a single facility failing would isolate 18 facilities serving 850M+ people
-— **predictive monitoring prevents this disaster**.

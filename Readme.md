@@ -36,8 +36,8 @@ Compromising someone in the middle of the night and implanting them in their ***
 </div>
 
 ### Verbatim (I guess Osmosis right) 
-1. "[***`'AI'`***](https://www.ai.mil/Initiatives/CJADC2/) is going to learn a lot"
-2. "How can I [***`'see what he/she sees?'`***](#implant-index3)"
+1. "[***`AI`***](https://www.ai.mil/Initiatives/CJADC2/) is going to learn a lot"
+2. "How can I [***`see what he/she sees?`***](#implant-index3)"
 3. "Seeing behind [***`'The Curtain'`***](#curtain)"
 4. "Put them in a "[***`'Container'`***]()"
 5. "What is his/her Itinerary? And what is the [***`'Exit Strategy'`***](#)"

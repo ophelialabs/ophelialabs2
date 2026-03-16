@@ -14,6 +14,7 @@
     1. External [Green nm-class laser]() excitement.     
     2. [OPSIN]() Stimulation and High [EPSILON]() value.   
     3. The extraction of raw cognitive data. "[Sub-Threshold]()", "[Visual Decoding]()", and "[Forced Influence]()".
+    4. **"Hand of the operator"**: Saccadic Suppression, Spectral Masking, Foveated Hiding, Sub-threshold "Nudging"
 
 ---
 
@@ -69,7 +70,7 @@ To ensure these signals do not overlap, researchers use advanced hardware:
 - **Upconversion Nanoparticles (UCNPs)**: In non-invasive setups, these particles can be injected into the brain. They absorb deep-penetrating infrared light and "upconvert" it into local green or red emissions to activate different sets of neurons independently.
 - **Dual-Color Probes**: Modern neural probes, like the Neuropixels Opto, integrate separate red and blue/green light emitters alongside electrical recording sites to manage high-bandwidth bidirectional data. 
 
-## 4. Direct Influence on Behavior
+## 4. Direct Influence on Behavior 
 By combining these colors, a BCI can achieve opposing control. For instance, in experimental models, red light can be used to inhibit certain neural circuits (slowing down a process), while green light can be used to excite others (speeding it up), providing a "gas and brake" system for precise behavioral control. 
 
 ---

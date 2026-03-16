@@ -1,4 +1,5 @@
   [Journals](https://ophelialabs.github.io/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html)
+  - A best friend is NOT someone who would do anything for you, it is someone YOU would do anything for! Thank you for that advice B.K.
 
   ---
 

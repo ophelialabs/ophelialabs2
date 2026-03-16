@@ -13,8 +13,8 @@
 </div>
 
 [Retroauricular](#implant-index2): 
-DARPA's Neural Engineering System Design ([NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design)) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k).
-Implanting them in their ***SLEEP***. How do I bring you out into the ***light***? 
+DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k).
+Implanting them in their ***SLEEP***. 
 
 ---
 

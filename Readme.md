@@ -36,13 +36,13 @@ Compromising someone in the middle of the night and implanting them in their ***
 </div>
 
 ### Verbatim (I guess Osmosis right) 
-- "[***`'AI'`***](https://www.ai.mil/Initiatives/CJADC2/) is going to learn a lot"
-- "How can I [***`'see what he/she sees?'`***](#implant-index3)"
-- "Seeing behind [***`'The Curtain'`***](#curtain)"
-- "Put them in a "[***`'Container'`***]()"
-- "What is his/her Itinerary? And what is the [***`'Exit Strategy'`***](#)"
-- "Who are they on the [***`'phone'`***](#comm) with?"
-- "Trying to do our job for us. [***`'Hand it off to me'`***](https://www.syglass.io/academy/v/tracing-basics-fn2tc)"
+1. "[***`'AI'`***](https://www.ai.mil/Initiatives/CJADC2/) is going to learn a lot"
+2. "How can I [***`'see what he/she sees?'`***](#implant-index3)"
+3. "Seeing behind [***`'The Curtain'`***](#curtain)"
+4. "Put them in a "[***`'Container'`***]()"
+5. "What is his/her Itinerary? And what is the [***`'Exit Strategy'`***](#)"
+6. "Who are they on the [***`'phone'`***](#comm) with?"
+7. "Trying to do our job for us. [***`'Hand it off to me'`***](https://www.syglass.io/academy/v/tracing-basics-fn2tc)"
 
 ---
 

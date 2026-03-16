@@ -21,11 +21,6 @@ Implanting them in their ***SLEEP***. How do I bring ***YOU*** out into the ligh
 
 - [*Appreciate the opportunity to work with older technology*](https://share.google/aimode/mxkbRlTQw23gqb3eF): Onboarding
 - [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
-- [Power Pages](https://www.microsoft.com/en-us/power-platform/products/power-pages): functions as a secure portal for structured data exchange, often used when an organization needs to bridge the gap between internal teams and external stakeholders like vendors or partners.
-- [Power Automate](https://learn.microsoft.com/en-us/power-automate/): More than 400 pre-built connectors allow the platform to talk to services like Microsoft 365, Dynamics 365, Salesforce, and Google Drive.
-- [Azure AI Foundry](#): This is your "Command Center." Use Prompt Flow to visualize the handoff between your Master Agent and specialized workers.
-- [CopilotKit & ADK](#): Use the ADK (Agent Development Kit) to bridge your backend logic with your frontend.
-- [AWS Strands](#): If you are working in the AWS ecosystem, Strands provides an "Agentic Loop" pattern (ReAct) that allows agents to reason and act autonomously within your VPC.
 - [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [DELERIA](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 

@@ -15,7 +15,7 @@
 
 [Retroauricular](#implant-index2): 
 DARPA's Neural Engineering System Design ([NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design)) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k) that bridge the gap between the human brain and digital electronics.
-Compromising someone in the middle of the night and implanting them in their **sleep**. How do I bring ***YOU*** out into the light?
+Compromising someone in the middle of the night and implanting them in their ***SLEEP***. How do I bring ***YOU*** out into the light?
 
 ---
 

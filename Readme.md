@@ -53,7 +53,7 @@ In this specific environment, you don't just run an app; you run a Pod.
 - Security Sidecar: A secondary container (like Istio or Envoy) that handles Mutual TLS (mTLS). This encrypts the neural data before it ever leaves the local node, meeting Zero Trust requirements [13].
 ## 2. Implementation via DevSecOps (Big Bang)
 The architecture uses a standardized "container factory" approach called Platform One.
-- Hardened Images: You must use Iron Bank—the repository of digitally signed, hardened container images [11]. Your neural interface software would be packaged into these pre-approved "containers" to bypass manual security reviews.
+- Hardened Images: You must use Iron Bank—the repository of digitally signed, hardened container images [11]. Your neural interface software would be packaged into these pre-approved "[containers](https://www.alpinelinux.org/)" to bypass manual security reviews.
 - Continuous Authorization (cATO): Instead of a one-time paper check, the container is constantly scanned for vulnerabilities. If a security flaw is found in the MEG-fiber driver, the container is automatically killed and replaced with a patched version [11].
 ## 3. Edge Computing (K3s)
 Because these fibers are often wearable or implanted, you can't rely on a distant cloud.

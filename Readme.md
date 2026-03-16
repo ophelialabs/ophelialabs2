@@ -1,5 +1,4 @@
   [Journals](https://ophelialabs.github.io/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html)
-  - A best friend is NOT someone who would do anything for you, it is someone YOU would do anything for! Thank you for that advice B.K.
 
   ---
 
@@ -30,11 +29,11 @@ Implanting them in their ***SLEEP***. How do I bring you out into the ***light**
   <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
 </div>
 
-### Verbatim (I guess Osmosis right) 
+### Verbatim  
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
 3. "Seeing behind ***[The Curtain](#curtain)***"
-4. "Put them in a "***[Container / I.B.](#informatics-index2)***"
+4. "Put them in a "***[Container](#informatics-index2)***"
 5. "What is his/her Itinerary? And what is the ***[Exit Strategy](#)***"
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"

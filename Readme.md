@@ -39,7 +39,7 @@ Compromising someone in the middle of the night and implanting them in their sle
 - "[***AI***](https://www.ai.mil/Initiatives/CJADC2/) is going to learn a lot"
 - "How can I [***see what he/she sees?***](#implant-index3)"
 - "Seeing behind [***The Curtain***](#curtain)"
-- "Put them in a "[Container]()"
+- "Put them in a "[***Container***]()"
 - "What is his/her Itinerary? And what's the [***'Exit Strategy'***](#)"
 - "Who are they on the [***"phone"***](#comm) with?"
 - "Trying to do our job for us. [***Hand it off to me***](https://www.syglass.io/academy/v/tracing-basics-fn2tc)"

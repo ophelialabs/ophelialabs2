@@ -2,6 +2,8 @@
 
 ---
 
+[Virtuoso](https://ee.usc.edu/~redekopp/ee209/virtuoso/setup/USCVLSI-VirtuosoTutorial.pdf) ([Guide](https://anysilicon.com/cadence-virtuoso-ultimate-guide/)) | [Qiskit](https://www.ibm.com/quantum/qiskit) | [Cirq](https://quantumai.google/cirq) | [Pennylane](https://pennylane.ai/)
+
 ## Manufacturing
 Combining Qiskit for quantum modeling, Magnetoelastic MI (Magneto-Impedance) layers for sensing, and graphene-based nanosheet fibers ([**Apex**](^1)) creates a highly advanced framework for next-generation neural interfaces.
 
@@ -11,7 +13,7 @@ Combining Qiskit for quantum modeling, Magnetoelastic MI (Magneto-Impedance) lay
 - Qiskit's Role: IBM's Qiskit is used to simulate and optimize the quantum-level interactions within these materials. Specifically:
 - Quantum Sensing: Modeling the spin dynamics and magnetoreception properties to enhance the sensitivity of the MI layer.
 1. Material Discovery: Using Qiskit Machine Learning to predict the electrochemical and mechanical properties of new graphene-nanosheet composites.
-2. Signal Processing: Implementing quantum algorithms to decode complex neural signals from the high-dimensional data captured by the fiber interface.
+2. [Signal Processing](https://www.mathworks.com/products/signal.html?s_tid=FX_PR_info): Implementing quantum algorithms to decode complex neural signals from the high-dimensional data captured by the fiber interface. [6g](https://www.mathworks.com/matlabcentral/fileexchange/157771-6g-exploration-library-for-5g-toolbox)/[R&S](https://www.rohde-schwarz.com/us/about/news-press/all-news/rohde-schwarz-and-greenerwave-collaborate-to-verify-ris-modules-and-drive-6g-research_229356-1404099.html)
 
 ## The Role of Localized Ag Injections
 Integrating localized Silver (Ag) nanoparticle injections behind the right ear (the retroauricular region) serves as a specialized method to enhance the coupling between your graphene-based fiber interface and external hardware.

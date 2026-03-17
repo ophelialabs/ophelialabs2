@@ -42,7 +42,7 @@ Implanting them in their ***SLEEP***.
   <img src="Content/Hyperspectral2.jpg" alt="Centered image" width="600" height="400">
 </div>
 
-**Note**: The [HyperSpectral](https://arxiv.org/abs/2508.18219) bubble has to *form* & *dissipate*. It is not constant. [Also](https://share.google/aimode/jlCs0BHZjhPoYzlPn). Now: [Geo](#geo)
+**Note**: The [HyperSpectral](https://arxiv.org/abs/2508.18219) bubble has to *form* & *dissipate*. It is not constant. 
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

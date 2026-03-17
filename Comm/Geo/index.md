@@ -1,5 +1,5 @@
 [Home](#) | [Index](#geo) | [Index2](#geo-index2) | [Index3](#geo-index3) | [Hybrid](#hybrid) | [SIEM](#siem)
-- BRUH
+- **BRUH**
 
 ---
 

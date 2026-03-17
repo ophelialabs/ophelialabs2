@@ -38,6 +38,12 @@ Implanting them in their ***SLEEP***.
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 
+<div style="text-align: left;">
+  <img src="Content/Hyperspectral2.jpg" alt="Centered image" width="600" height="400">
+</div>
+
+**Note**: The [HyperSpectral](https://arxiv.org/abs/2508.18219) bubble has to *form* & *dissipate*. It is not constant. [Also](https://share.google/aimode/PPmHFTpFUDfzcCEZ7) 
+
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities
 2. [Bostonpiezooptics](https://www.bostonpiezooptics.com/optical-components): A resource for Optical Components
@@ -47,5 +53,4 @@ Implanting them in their ***SLEEP***.
 6. [Optical Noninvasive Brain–Computer Interface Development: Challenges and Opportunities](https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V35-N04/35-04-Blodgett.pdf)
 7. [In Vivo Evaluation of Thermally Drawn BiodegradableOptical Fibers as Brain Implants](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.b.35549)
 8. [Emerging fiber-based neural interfaces with conductive composites](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k)
-9. [HyperSpectral imaging with microcombs](https://arxiv.org/abs/2508.18219)
 10. [18^th Annual](https://star.spaceops.org/2025/user_manudownload.php?doc=510__1kjy24iu.pdf)

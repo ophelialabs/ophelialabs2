@@ -13,4 +13,7 @@
 </div>
 
 - [Similar but not exact](https://share.google/aimode/jlCs0BHZjhPoYzlPn). More of a combination of both *magnetoreception* images and not one or the other.
+- When observing what more closely resembled image 2, the first thought was Schrodinger's cat. 
+
+**Note**: Verify and if possible, how to figure out the "Step" technique?
 

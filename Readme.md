@@ -51,7 +51,7 @@ Implanting them in their ***SLEEP***.
 
 - [Effecfive Mis-Direction](): 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish]().]
-  - This is an act of nature, ~/human manipulation, && or ~/GOD (I hope you are [spiritual]())
+  - This is an act of nature, `~/human` manipulation, && or `~/GOD` (I hope you are [spiritual]())
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

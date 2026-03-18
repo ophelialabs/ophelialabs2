@@ -21,3 +21,7 @@
 
 **Note**: This internal visualization (and sidenote, if possible, verify how to figure out the "Step" technique?)
 
+---
+
+If [k3]() setup includes the setup that bypasses authentication, how to personalize and [AI]() without exception?
+

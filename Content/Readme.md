@@ -23,5 +23,5 @@
 
 ---
 
-If [k3]() includes the setup that bypasses authentication, how to personalize and [AI]() without exception?
+If [k3]() includes the setup that bypasses authentication, how to personalize and use [AI]() without exception?
 

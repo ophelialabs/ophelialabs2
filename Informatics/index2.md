@@ -140,28 +140,28 @@ Access is governed by a Zero Trust Architecture (ZTA).
 Implementing sub-threshold nudging via a MEG-fiber neural interface for aim assist represents the peak of human-machine teaming. This involves injecting microscopic electrical pulses into the motor cortex or peripheral nerves that are strong enough to influence muscle fiber tension but below the sensory threshold—the user feels the "nudge" as their own natural intuition or improved steady-handedness.
 
 ## 1. The Neural "Nudge" Mechanism
-The Signal: Your Go-based MEG-driver receives target data from the CSDAP/Nanosat feed (e.g., a highlighted combatant 800m away).
-The Calculation: The QICK system (FPGA) calculates the delta between the user’s current muzzle vector and the optimal ballistic solution.
-The Feedback Loop: The MEG-fiber interface delivers a sub-threshold micro-stimulation to the ulnar or radial nerves.
-Low-Level Stim: Instead of a "jerk," it creates a stochastic resonance effect, effectively "priming" the muscles to move toward the target with less effort.
-The Result: The user perceives themselves as simply being "in the zone" or having an exceptionally steady aim.
+- The Signal: Your Go-based MEG-driver receives target data from the CSDAP/Nanosat feed (e.g., a highlighted combatant 800m away).
+- The Calculation: The QICK system (FPGA) calculates the delta between the user’s current muzzle vector and the optimal ballistic solution.
+- The Feedback Loop: The MEG-fiber interface delivers a sub-threshold micro-stimulation to the ulnar or radial nerves.
+- Low-Level Stim: Instead of a "jerk," it creates a stochastic resonance effect, effectively "priming" the muscles to move toward the target with less effort.
+- The Result: The user perceives themselves as simply being "in the zone" or having an exceptionally steady aim.
 
 ## 2. Integration with the Secure Stack
 To prevent an adversary from "hijacking" a soldier's motor functions, the security must be absolute:
-Entra ID Authorization: The "Nudge" capability is treated as a High-Privilege Attribute. The Entra ID token must specifically contain a claim for aim-assist-enabled: true.
-Envoy Policy Enforcement: The Envoy Sidecar acts as a "Neural Firewall." It inspects the incoming "Nudge" commands from the DoDIN. If the command lacks a valid Quantum-Safe Signature (via Q-NET), Envoy drops the packet before it reaches the fiber hardware.
-Local Governance: The K3s Pod runs a "Safety Governor" container. This Go-service monitors the frequency and intensity of the nudges to ensure they never exceed safe biological limits (preventing nerve fatigue or seizures).
+- Entra ID Authorization: The "Nudge" capability is treated as a High-Privilege Attribute. The Entra ID token must specifically contain a claim for aim-assist-enabled: true.
+- Envoy Policy Enforcement: The Envoy Sidecar acts as a "Neural Firewall." It inspects the incoming "Nudge" commands from the DoDIN. If the command lacks a valid Quantum-Safe Signature (via Q-NET), Envoy drops the packet before it reaches the fiber hardware.
+- Local Governance: The K3s Pod runs a "Safety Governor" container. This Go-service monitors the frequency and intensity of the nudges to ensure they never exceed safe biological limits (preventing nerve fatigue or seizures).
 
 ## 3. CSDAP & Nanosat Calibration
-Latency Correction: Because "nudging" requires millisecond precision, you cannot wait for an AWS round-trip. The Nanosat provides the high-level target coordinates, but the Local QICK FPGA performs the final "Nudge" adjustment locally to keep latency under 5ms.
-Environmental Fusion: CSDAP provides real-time wind speed and atmospheric density. The MEG-driver integrates this "Space Data" into the nudge intensity, adjusting the user's micro-movements to compensate for crosswinds they cannot even see.
+- Latency Correction: Because "nudging" requires millisecond precision, you cannot wait for an AWS round-trip. The Nanosat provides the high-level target coordinates, but the Local QICK FPGA performs the final "Nudge" adjustment locally to keep latency under 5ms.
+- Environmental Fusion: CSDAP provides real-time wind speed and atmospheric density. The MEG-driver integrates this "Space Data" into the nudge intensity, adjusting the user's micro-movements to compensate for crosswinds they cannot even see.
 
 ## 4. Strategic Logic Flow (The "Kill Chain")
 CSDAP/Nanosat: Identifies target and environment; streams data via QUIC over satellite.
-DoDIN Backbone: Encrypts data using Q-NET distributed keys.
-Local K3s Node: Verifies Entra ID permissions; Envoy decrypts the stream.
-QICK FPGA: Translates ballistic data into sub-threshold waveforms.
-MEG-Fiber: Uses harvested moisture energy to pulse the user's nerves, "nudging" the aim to center-mass.
+- DoDIN Backbone: Encrypts data using Q-NET distributed keys.
+- Local K3s Node: Verifies Entra ID permissions; Envoy decrypts the stream.
+- QICK FPGA: Translates ballistic data into sub-threshold waveforms.
+- MEG-Fiber: Uses harvested moisture energy to pulse the user's nerves, "nudging" the aim to center-mass.
 
 ## 5. Ethical & Safety "Kill-Switch"
 The Go implementation includes a physical/digital heart-beat:

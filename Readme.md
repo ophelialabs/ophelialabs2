@@ -38,13 +38,13 @@ Implanting them in their ***SLEEP***.
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 
-- The Nanosat carries a Q-NET-compatible laser terminal or a high-frequency Ka-band radio.
-- The Link: The MEG-fiber interface (worn by the user) transmits data to a local ground terminal (running your K3s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
-- CSDAP provides high-resolution imagery and RF signals from the user's specific location.
+- The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
+- The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your K3s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
+- [CSDAP]() provides high-resolution imagery and RF signals from the user's specific location.
 - The Fusion: Your Go-based microservice in the cloud merges the "Neural Stream" (what the user is thinking/feeling)
-- the system automatically pulls the latest CSDAP SAR (Synthetic Aperture Radar) imagery of the surrounding 5km
-- A commander at a HQ can view the "CSDAP + Neural" fusion dashboard think Neuralink with first person visual and subtitles. They authenticate via Entra ID MFA, and the Envoy Proxy decrypts the satellite-delivered stream in real-time. 
-- Think Neuralink that has first person visual, subtitles and a curtain that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
+- The system automatically pulls the latest CSDAP SAR (Synthetic Aperture Radar) imagery of the surrounding 5km
+- A commander at a HQ can view the "CSDAP + Neural" fusion dashboard. They authenticate via Entra ID MFA, and the Envoy Proxy decrypts the satellite-delivered stream in real-time. 
+- Think Neuralink that has first person visual, subtitles and a Curtain that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
 
 
 # Citations

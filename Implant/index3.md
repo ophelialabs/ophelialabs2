@@ -88,4 +88,10 @@ Displacement Range: While individual layers produce small displacements (approx.
 Blocking Force: The actuator's ability to maintain displacement against an external load depends on the stiffness of both the niobate patch and the magnetostrictive substrate. Typical niobate stack actuators can generate forces up to several thousand Newtons.
 Bias Field: For maximum sensitivity, apply a DC bias magnetic field. This sets the operating point of the magnetostrictive material where its response to strain is steepest.
 
+## Active Reversing Electromagnet (Recommended) 
+This approach uses electricity to actively change the poles rather than waiting for it to demagnetize passively.
+- How it Works: An electromagnet's polarity is determined by the direction of the electric current running through its coil.
+- Building the Switch: Connect an H-bridge driver circuit to a DC power supply and the electromagnet coil. The H-bridge allows you to reverse the current direction, which instantly swaps the North/South poles.
+- Automatic Trigger: You can connect a sensor (such as a magnetic field sensor) that triggers the H-bridge to reverse current when the field strength drops below a certain threshold.
+
 

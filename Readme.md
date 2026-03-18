@@ -30,6 +30,8 @@ Implanting them in their ***SLEEP***.
   <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
 </div>
 
+- [Effecfive Mis-Direction](): < ***This is important!*** Think `webhooks`, if not...think [Hooking A Fish]().]
+
 ### Verbatim  
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
@@ -46,7 +48,6 @@ Implanting them in their ***SLEEP***.
 - The system automatically pulls the latest [CSDAP SAR (Synthetic Aperture Radar) imagery]() of the surrounding 5km
 - A commander at an [HQ()] can view the ["CSDAP + Neural" fusion dashboard](). They authenticate via [Entra ID MFA](), and the Envoy Proxy decrypts the satellite-delivered stream in real-time. 
 - Think Neuralink...That has first person visual, subtitles, and a Curtain, that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
-- [Effecfive Mis-Direction](): < ***This is important!*** Think `webhooks`, if not...think [Hooking A Fish]().]
 
 ---
 

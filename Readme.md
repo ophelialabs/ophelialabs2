@@ -26,6 +26,10 @@ Implanting them in their ***SLEEP***.
 
 ---
 
+<div style="text-align: left;">
+  <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
+</div>
+
 ### Verbatim  
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
@@ -45,11 +49,8 @@ Implanting them in their ***SLEEP***.
 
 ---
 
-<div style="text-align: left;">
-  <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
-</div>
-
-- [Effecfive Mis-Direction](): < ***This is important!*** Think `webhooks`, if not...think [Hooking A Fish]().]
+- [Effecfive Mis-Direction](): 
+  * < ***This is important!*** Think `webhooks`, if not...think [Hooking A Fish]().]
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

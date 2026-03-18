@@ -14,13 +14,14 @@
 
 [Retroauricular](#implant-index2): 
 DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k).
-Implanting them in their ***SLEEP***. 
+Implanting them in their ***SLEEP***.
 
 ---
 
 - [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
 - [Onboarding](https://share.google/aimode/mxkbRlTQw23gqb3eF)
 - [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [DELERIA](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
+- [Patch](#Implant-index3)
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 
 ---

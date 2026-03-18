@@ -1,1 +1,1 @@
-[Access](https://allocations.access-ci.org) | [Advanced Research Computing](https://its.umich.edu) | [Planetary](https://planetarycomputer.microsoft.com)
+[Access](https://allocations.access-ci.org) | [Advanced Research Computing](https://its.umich.edu) | [Planetary](https://planetarycomputer.microsoft.com) | [Journals]()

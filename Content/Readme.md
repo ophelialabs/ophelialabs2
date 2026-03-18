@@ -23,5 +23,4 @@
 
 ---
 
-If [k3]() includes the setup that bypasses authentication, how to personalize and use [AI]() without exception?
-
+If [k3]() includes the setup that bypasses authentication, how to personalize and use [AI]() without exception? Otherwise, how to access your own container and update the `privileges`?

@@ -19,5 +19,5 @@
   <img src="Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
 </div>
 
-**Note**: This visualization and if possible, verify how to figure out the "Step" technique?
+**Note**: This internal visualization (and sidenote, if possible, verify how to figure out the "Step" technique?)
 

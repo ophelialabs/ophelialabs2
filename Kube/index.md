@@ -1,4 +1,5 @@
 # KUBERNETES
+- [Docs](https://kubernetes.io/docs/home/)
 Detect OS and arch 
 Linux (x86-64 , ARM64)
 MacOS (Intel , Silicon(M4))

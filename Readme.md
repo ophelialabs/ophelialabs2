@@ -47,7 +47,6 @@ Implanting them in their ***SLEEP***.
 - The system automatically pulls the latest [CSDAP SAR (Synthetic Aperture Radar) imagery]() of the surrounding 5km
 - A commander at an [HQ()] can view the ["CSDAP + Neural" fusion dashboard](). They authenticate via [Entra ID MFA](), and the Envoy Proxy decrypts the satellite-delivered stream in real-time. 
 - Think Neuralink...That has first person visual, subtitles, and a Curtain, that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
-- GREG/INFOSYS whoever it may be, THANK YOU! Conglomerates all have .gov oversights or backdoors like the iphone [toolkit]() which would indicate Wal-Mart's extreme measures when a homie was only tryin to learn, and it only happened because I wanted to print a return sheet for a fellow AAP employee TEAMMATE.
 
 ---
 
@@ -56,7 +55,7 @@ Implanting them in their ***SLEEP***.
   - This is an act of [Nature](), `[~/human` manipulation](), && or `[~/GOD]()` (I hope you are spiritual)
   * Note: [Spiritual/Full Benefits]() comes at the end
   - Two sides to every ***COIN*** 
-  - [GREG](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you were the one to say "We may have something"
+  - [**GREG**](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you were the one to say "We may have something"
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

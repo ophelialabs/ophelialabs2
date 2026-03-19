@@ -54,7 +54,7 @@ Implanting them in their ***SLEEP***.
   - This is an act of [Nature](), `[~/human` manipulation](), && or `[~/GOD]()` (I hope you are spiritual)
   * Note: [Spiritual/Full Benefits]() comes at the end
   - Two sides to every ***COIN*** 
-  - [GREG](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 
+  - [GREG](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you  were the one to say "We may have something"
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

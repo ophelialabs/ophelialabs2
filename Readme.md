@@ -38,6 +38,7 @@ Implanting them in their ***SLEEP***.
 5. "What is his/her Itinerary? And what is the ***[Exit Strategy](#)***"
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
+8. "[Lets make it deep.](#harvest-index3)"
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.

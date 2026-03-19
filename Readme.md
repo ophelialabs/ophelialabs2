@@ -53,7 +53,7 @@ Implanting them in their ***SLEEP***.
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish]().]
   - This is an act of [Nature](), `[~/human` manipulation](), && or `[~/GOD]()` (I hope you are spiritual)
   * Note: [Spiritual/Full Benefits]() comes at the end
-  - Two sides to every COIN
+  - Two sides to every **COIN**
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

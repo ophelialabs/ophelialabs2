@@ -46,7 +46,7 @@ Implanting them in their ***SLEEP***.
 - The system automatically pulls the latest [CSDAP SAR (Synthetic Aperture Radar) imagery]() of the surrounding 5km
 - A commander at an [HQ()] can view the ["CSDAP + Neural" fusion dashboard](). They authenticate via [Entra ID MFA](), and the Envoy Proxy decrypts the satellite-delivered stream in real-time. 
 - Think Neuralink...That has first person visual, subtitles, and a Curtain, that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
-- GREG/INFOSYS whoever it may be, THANK YOU! Conglomerates all have .gov oversights or backdoors like the iphone [toolkit]()
+- GREG/INFOSYS whoever it may be, THANK YOU! Conglomerates all have .gov oversights or backdoors like the iphone [toolkit]() which would indicate Wal-Mart's extreme measures when a homie was only tryin to learn and it only happened because I wanted to print a return sheet for an AAP employee.
 
 ---
 

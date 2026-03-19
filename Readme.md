@@ -53,9 +53,9 @@ Implanting them in their ***SLEEP***.
 - [Effecfive Mis-Direction](): 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish]().] and how far it is reeled in.
   - This is an act of [Nature](), `[~/human` manipulation](), && or `[~/GOD]()` (I hope you are spiritual)
-  * Note: [Spiritual/Full Benefits]() comes at the end
+  * Note: [Spiritual/Full Benefits]() 
   - Two sides to every ***COIN*** 
-  - [**GREG**](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you were the one to say "We may have something"
+  - [**GREG**](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you were the one to say "We may have something" and "One trick pony"
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

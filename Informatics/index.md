@@ -2,7 +2,7 @@
 
 ---
 
-[Informatics](https://braininitiative.nih.gov) | [DABI]() | [AWS DANDI]() | [Data Acquisition](https://github.com/ophelialabs/ophelialabs.github.io/blob/main/pages/quantum/README2.md) |  [DELERIA](https://newscenter.lbl.gov/2025/05/19/building-a-data-pipeline-to-accelerate-discovery/)
+[Informatics](https://braininitiative.nih.gov) | [DABI]() | [AWS DANDI]() | [Data Acquisition](https://github.com/ophelialabs/ophelialabs.github.io/blob/main/pages/quantum/README2.md) |  [ESnet/DELERIA](https://newscenter.lbl.gov/2025/05/19/building-a-data-pipeline-to-accelerate-discovery/)
 
 # Comprehensive platforms
 - [Neurodesk](https://neurodesk.org/): A platform that uses software containers for accessible, flexible, and reproducible analysis. It includes a browser-accessible virtual desktop and command-line interface.

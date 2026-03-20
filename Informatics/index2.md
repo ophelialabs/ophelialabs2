@@ -126,7 +126,7 @@ Entra ID via OpenID Connect (OIDC).
     * RBAC Mapping: Map Entra ID Groups (e.g., "Neural-Operators-Group") to Kubernetes Roles. This ensures only authorized personnel can view or control specific neural streams.
     * Workload Identity: Use Entra Workload ID for the pods themselves. The MEG-driver container authenticates to other  services (like storage or Q-NET) using an Entra identity instead of static secrets. 
 
-3. Real-Time Data Transfer: Deleria/Q-Net & QICK (similar to RT-NET or Lab Streaming Layer). 
+3. Real-Time Data Transfer: ESnet(Deleria)/Q-Net & QICK (similar to RT-NET or Lab Streaming Layer). 
     * Q-NET/QKD Layer: The Q-NET hardware provides Quantum Key Distribution (QKD). Your Go-based SDS server pulls these keys and injects them into the Envoy TLS 1.3 handshake, ensuring the neural stream is immune to quantum decryption.
     *QICK System Simplification: The Quantum Instrumentation Control Kit (QICK) can replace multiple software layers by performing the analog-to-digital conversion (ADC) and signal filtering directly on an RFSoC FPGA. This reduces latency to the sub-microsecond range, essential for systems. 
 

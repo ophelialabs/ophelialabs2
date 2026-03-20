@@ -1,4 +1,4 @@
-  [Journals](https://ophelialabs.github.io/AAU+/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html) | [**NOTE**](https://share.google/aimode/RKFX8ayTcBBPOBt9A) | [APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)
+  [Journals](https://ophelialabs.github.io/AAU+/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html) | [**NOTE**](https://share.google/aimode/wct1m4vGGTiczPohU) | [APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)
 
   ---
 

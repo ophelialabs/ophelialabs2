@@ -10,8 +10,6 @@
 
 ---
 
-- [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
-- [Onboarding](https://share.google/aimode/mxkbRlTQw23gqb3eF)
 - [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 - [Patch](#Implant-index3)
 

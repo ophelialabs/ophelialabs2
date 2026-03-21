@@ -20,9 +20,9 @@ Implanting them in their ***SLEEP***.
 
 - [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
 - [Onboarding](https://share.google/aimode/mxkbRlTQw23gqb3eF)
-- [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) [ESnet/Deleria]](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
+- [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 - [Patch](#Implant-index3)
-- The [APT/Aladin]() combination is the visual and logic engine of the "Golden Dome", ensuring that American space dominance is maintained through both observational clarity and automated protection.
+- The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic engine of the "Golden Dome", ensuring that American space dominance is maintained through both observational clarity and automated protection.
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 
 ---
@@ -46,8 +46,6 @@ Implanting them in their ***SLEEP***.
 <div style="text-align: left;">
   <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
 </div>
-
-NOTE: [**AI & Sat**](https://share.google/aimode/OmNbSNjjehPcgIKFG)
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [AWS K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.

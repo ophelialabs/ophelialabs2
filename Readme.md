@@ -8,6 +8,22 @@
 
 [*CoOp Behavior*](https://www.science.org/doi/10.1126/science.adw8151) / [*Emerging fiber-based neural interfaces*](https://www.nature.com/articles/s41528-025-00465-w#Sec14)
 
+---
+
+- [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
+- [Onboarding](https://share.google/aimode/mxkbRlTQw23gqb3eF)
+- [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
+- [Patch](#Implant-index3)
+
+<div style="text-align: left;">
+  <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
+</div>
+
+- The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic engine of the "Golden Dome", ensuring that American space dominance is maintained through both observational clarity and automated protection.
+- **Cooking with Crisco**: A place for everything, and everything in its place!
+
+---
+
 <div style="text-align: left;">
   <img src="Content/IMG_0022.jpg" alt="Centered image" width="600" height="400">
 </div>
@@ -15,23 +31,6 @@
 [Retroauricular](#implant-index2): 
 DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k).
 Implanting them in their ***SLEEP***.
-
----
-
-- [Walmart / Starlight](https://share.google/aimode/a8AOBqrberZQk7ojF)
-- [Onboarding](https://share.google/aimode/mxkbRlTQw23gqb3eF)
-- [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
-- [Patch](#Implant-index3)
-- The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic engine of the "Golden Dome", ensuring that American space dominance is maintained through both observational clarity and automated protection.
-- **Cooking with Crisco**: A place for everything, and everything in its place!
-
----
-
-<div style="text-align: left;">
-  <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
-</div>
-
-
 
 ## Verbatim  
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
@@ -42,10 +41,6 @@ Implanting them in their ***SLEEP***.
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 8. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
-
-<div style="text-align: left;">
-  <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
-</div>
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [AWS K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.

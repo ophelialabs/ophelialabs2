@@ -1,4 +1,4 @@
-  [Journals](https://ophelialabs.github.io/AAU+/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html) | [**NOTE**](https://share.google/aimode/OmNbSNjjehPcgIKFG) | [APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)
+  [Journals](https://ophelialabs.github.io/AAU+/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html) | [APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)
 
   ---
 
@@ -31,7 +31,9 @@ Implanting them in their ***SLEEP***.
   <img src="Content/03_Gemini_Generated_Image_BMI-CTSS.png" alt="Centered image" width="600" height="400">
 </div>
 
-### Verbatim  
+
+
+## Verbatim  
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
 3. "Seeing behind ***[The Curtain](#curtain)***"
@@ -40,6 +42,12 @@ Implanting them in their ***SLEEP***.
 6. "Who are they on the ***[phone](#comm)*** with?"
 7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 8. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
+
+<div style="text-align: left;">
+  <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
+</div>
+
+NOTE: [**AI & Sat**](https://share.google/aimode/OmNbSNjjehPcgIKFG)
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.

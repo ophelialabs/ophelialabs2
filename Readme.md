@@ -50,7 +50,7 @@ Implanting them in their ***SLEEP***.
 NOTE: [**AI & Sat**](https://share.google/aimode/OmNbSNjjehPcgIKFG)
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
-- The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
+- The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [AWS K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
 - [CSDAP]() provides high-resolution imagery and RF signals from the user's specific location.
 - The [Fusion](): Your Go-based microservice in the cloud merges the "Neural Stream" (what the user is thinking/feeling)
 - The system automatically pulls the latest [CSDAP SAR (Synthetic Aperture Radar) imagery]() of the surrounding 5km
@@ -64,7 +64,6 @@ NOTE: [**AI & Sat**](https://share.google/aimode/OmNbSNjjehPcgIKFG)
   - This is an act of [Nature](), `[~/human` manipulation](), && or `[~/GOD]()` (I hope you are spiritual)
   * Note: [Spiritual/Full Benefits]() 
   - Two sides to every ***COIN*** 
-  - [**GREG**](), we both know I do my `[DUE DILIGENCE]()`, fucking `[FIDDLE]()`, 12 Board Members and you were the one to say "We may have something" and "One trick pony"
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

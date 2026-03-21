@@ -1,7 +1,3 @@
-  [Journals](https://ophelialabs.github.io/AAU+/journals.html) | [AAU+](#aau) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [Dashboard](https://ophelialabs.github.io/Dashboard/index.html) | [APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)
-
-  ---
-
 <div style="text-align: left;">
   <img src="Content/BMI.png" alt="Centered image" width="600" height="400">
 </div>

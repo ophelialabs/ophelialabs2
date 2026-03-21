@@ -10,8 +10,7 @@
   <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
 </div>
 
-- The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic engine of the "Golden Dome"
-
+- The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic "engine" 
 ---
 
 <div style="text-align: left;">

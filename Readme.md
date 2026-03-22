@@ -42,7 +42,7 @@ Implanting them in their ***SLEEP***.
 
 **Note**: How much less [*Neodymium*]() magnetic pole attraction closer to the aluminum ***WATCH***
 
-### Let's let "[***GOD***]()" be the judge.
+
 6. [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 7. "Who are they on the ***[phone](#comm)*** with?"
 8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"

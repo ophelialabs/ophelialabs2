@@ -25,11 +25,29 @@ Implanting them in their ***SLEEP***.
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
 3. "Seeing behind ***[The Curtain](#curtain)***"
 4. "Put them in a "***[Container](#informatics-index2)***"
-5. "What is his/her Itinerary? And what is the ***[Exit Strategy](#)***"
-6. "Who are they on the ***[phone](#comm)*** with?"
-7. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
-8. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
-9. [Spiritual/Full Benefits]() 
+
+## SPLIT
+<div style="text-align: left;">
+  <img src="Content/GOD/IMG_0027.jpg" alt="Centered image" width="600" height="400">
+</div>
+
+<div style="text-align: center;">
+  <img src="Content/GOD/image1.jpeg" alt="Centered image" width="600" height="400">
+</div>
+
+<div style="text-align: center;">
+  <img src="Content/GOD/Adobe Express - Video.gif" alt="Centered image" width="600" height="400">
+</div>
+
+- "Let's let "[***GOD***](WIP)" be the judge.
+5. [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
+6. "What is his/her Itinerary? And what is the ***[Exit Strategy](#)***"
+7. "Who are they on the ***[phone](#comm)*** with?"
+8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
+9. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
+10. [Spiritual/Full Benefits]() 
+
+---
 
 - The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [AWS K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
@@ -41,7 +59,6 @@ Implanting them in their ***SLEEP***.
 
 ---
 
-- [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 - Effecfive Mis-Direction: 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](). and how far it is reeled in.
   - This is an act of `Nature`, `human` manipulation, && or `GOD`

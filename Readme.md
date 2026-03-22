@@ -45,7 +45,7 @@ Implanting them in their ***SLEEP***.
 7. "Who are they on the ***[phone](#comm)*** with?"
 8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 9. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
-10. [Spiritual/Full Benefits]() 
+10. [Spiritual/Full Benefits/Neutralize](): This is an act of `Nature`, `human` manipulation, && or `GOD`
 
 ---
 
@@ -61,7 +61,6 @@ Implanting them in their ***SLEEP***.
 
 - Effecfive Mis-Direction: 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](). and how far it is reeled in.
-  - This is an act of `Nature`, `human` manipulation, && or `GOD`
 - Two sides to every ***COIN***: The [Patch](#Implant-index3)
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 

@@ -62,7 +62,7 @@ Implanting them in their ***SLEEP***.
 - Effecfive Mis-Direction: 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](). and how far it is reeled in.
   * 
-- Two sides to every ***COIN***: The [Patch](#Implant-index3)
+- Two sides to every ***COIN***: The [PATCH](#Implant-index3)
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 
 # Citations

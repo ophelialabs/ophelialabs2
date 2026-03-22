@@ -40,7 +40,7 @@ Implanting them in their ***SLEEP***.
   <img src="Content/GOD/Adobe Express - Video.gif" alt="Centered image" width="600" height="400">
 </div>
 
-- "Let's let "[***GOD***](WIP)" be the judge.
+- "Let's let "[***GOD (Particle)***](WIP)" be the judge.
 6. [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)
 7. "Who are they on the ***[phone](#comm)*** with?"
 8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
@@ -61,6 +61,7 @@ Implanting them in their ***SLEEP***.
 
 - Effecfive Mis-Direction: 
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](). and how far it is reeled in.
+  * 
 - Two sides to every ***COIN***: The [Patch](#Implant-index3)
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 

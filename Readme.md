@@ -60,9 +60,8 @@ Implanting them in their ***SLEEP***.
   * Isolation: 
   * Effecfive Mis-Direction:  ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](), and how far it is reeled in.
 
-- Two sides to every **coin**: The [***PATCH***](#Implant-index3)
+### Two sides to every **coin**: The [***PATCH***](#Implant-index3)
 10. [Spiritual/Full Benefits/Neutralize](): 
-- **Cooking with Crisco**: A place for everything, and everything in its place!
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

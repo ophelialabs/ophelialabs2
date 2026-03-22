@@ -24,7 +24,7 @@ Implanting them in their ***SLEEP***.
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
 2. "How can I ***[see what he/she sees?](#implant-index3)***"
 3. "Seeing behind ***[The Curtain](#curtain)***"
-4. "Put them in a "***[Container](#informatics-index2)***"
+4. "Put them in a "***[Container](#geo-index2)***"
 5. "What is his/her Itinerary? And what is the ***[Exit Strategy](#)***"
 
 ## SPLIT

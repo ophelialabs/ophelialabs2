@@ -5,7 +5,7 @@
 - The [APT/***ALADIN***](https://share.google/aimode/OmNbSNjjehPcgIKFG) combination is the visual and logic "engine" 
 ---
 
-<div style="text-align: left;">
+<div style="text-align: center;">
   <img src="Content/BMI.png" alt="Centered image" width="600" height="400">
 </div>
 
@@ -13,7 +13,7 @@
 
 ---
 
-<div style="text-align: left;">
+<div style="text-align: right;">
   <img src="Content/IMG_0022.jpg" alt="Centered image" width="600" height="400">
 </div>
 
@@ -36,7 +36,7 @@ Implanting them in their ***SLEEP***.
   <img src="Content/GOD/image1.jpeg" alt="Centered image" width="600" height="400">
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: right;">
   <img src="Content/GOD/Adobe Express - Video.gif" alt="Centered image" width="600" height="400">
 </div>
 

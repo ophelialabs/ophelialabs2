@@ -45,7 +45,7 @@ Implanting them in their ***SLEEP***.
 7. "Who are they on the ***[phone](#comm)*** with?"
 8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 9. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
-10. [Spiritual/Full Benefits/Neutralize](): This is an act of `human` && ["AI"]() manipulation. It is designed to be un-winnable.
+10. [Spiritual/Full Benefits/Neutralize](): This is an act of 'human' && ["AI"]() manipulation. It is designed to be un-winnable.
 
 ---
 

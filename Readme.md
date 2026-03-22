@@ -47,7 +47,6 @@ Implanting them in their ***SLEEP***.
 7. "Who are they on the ***[phone](#comm)*** with?"
 8. "Trying to do our job for us. ***[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)***"
 9. "[Lets make it deep.](#harvest-index3)" / [Self-Healing](https://www.science.org/doi/10.1126/sciadv.adx4359)
-10. [Spiritual/Full Benefits/Neutralize](): This is a combination of 'human' && ["AI"]().
 
 ---
 
@@ -65,6 +64,7 @@ Implanting them in their ***SLEEP***.
   * <^ ***This is important!*** Think `webhooks`. If not...think [Hooking A Fish](). and how far it is reeled in.
   * 
 - Two sides to every **coin**: The [***PATCH***](#Implant-index3)
+10. [Spiritual/Full Benefits/Neutralize](): 
 - **Cooking with Crisco**: A place for everything, and everything in its place!
 
 # Citations

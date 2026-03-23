@@ -1,4 +1,5 @@
-# What is the benefit of the 1,000km perimeter of south atlantic ocean subterranean global network located at 23°41'55.08"S 7°47'10.17"W?
+# South Atlantic
+What is the benefit of the 1,000km perimeter of south atlantic ocean subterranean global network located at 23°41'55.08"S 7°47'10.17"W?
 The location provided [(23°41'55.08"S 7°47'10.17"W)](https://earth.google.com/web/@-21.78561787,-13.47523656,-2281.75919568a,3042074.81786817d,35y,340.34292301h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA) is a specific point in the South Atlantic Ocean that sits along the path of the South Atlantic Cable System (SACS), the first direct undersea ***fiber-optic*** link between Africa and South America. 
 The "1,000km perimeter" likely refers to the regional influence and coverage area of this network's infrastructure as it traverses the deep ocean floor. The primary benefits of this specific segment of the global network include:
 - Massive Latency Reduction: 
@@ -13,7 +14,7 @@ The "1,000km perimeter" likely refers to the regional influence and coverage are
     * This network infrastructure supports new business opportunities in sectors like gaming, education, and enterprise services by providing reliable and affordable bandwidth to previously underserved regions. 
 
 
-
+# [North Atlantic](https://earth.google.com/earth/d/1pROrJ7uQRrZNf3tVzgPYyIzxXnVX6zex?usp=sharing)
 
 
 [Index2](#harvest-index2)

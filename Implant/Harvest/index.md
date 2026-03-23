@@ -1,6 +1,5 @@
 # South Atlantic
-What is the benefit of the 1,000km perimeter of south atlantic ocean subterranean global network located at 23°41'55.08"S 7°47'10.17"W?
-The location provided [(23°41'55.08"S 7°47'10.17"W)](https://earth.google.com/web/@-21.78561787,-13.47523656,-2281.75919568a,3042074.81786817d,35y,340.34292301h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA) is a specific point in the South Atlantic Ocean that sits along the path of the South Atlantic Cable System (SACS), the first direct undersea ***fiber-optic*** link between Africa and South America. 
+The location [23°41'55.08"S 7°47'10.17"W](https://earth.google.com/web/@-21.78561787,-13.47523656,-2281.75919568a,3042074.81786817d,35y,340.34292301h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA) is a specific point in the South Atlantic Ocean that sits along the path of the South Atlantic Cable System (SACS), the first direct undersea ***fiber-optic*** link between Africa and South America. 
 The "1,000km perimeter" likely refers to the regional influence and coverage area of this network's infrastructure as it traverses the deep ocean floor. The primary benefits of this specific segment of the global network include:
 - Massive Latency Reduction: 
     * This network path reduces data travel time between South America and Africa by approximately 80%. For instance, latency between Fortaleza (Brazil) and Luanda (Angola) dropped from 350ms to 63ms.
@@ -14,8 +13,20 @@ The "1,000km perimeter" likely refers to the regional influence and coverage are
     * This network infrastructure supports new business opportunities in sectors like gaming, education, and enterprise services by providing reliable and affordable bandwidth to previously underserved regions. 
 
 
-# [North Atlantic](https://earth.google.com/earth/d/1pROrJ7uQRrZNf3tVzgPYyIzxXnVX6zex?usp=sharing)
+# North Atlantic
+The location [10°42'34.78"N 25°46'23.83"W](https://earth.google.com/earth/d/1pROrJ7uQRrZNf3tVzgPYyIzxXnVX6zex?usp=sharing) is situated in the North Atlantic Ocean, approximately 350km southwest of the Cape Verde islands. Within a 1,500km perimeter of these coordinates, the "subterranean" (undersea) global network—consisting of fiber-optic submarine cables—provides several critical benefits: 
+- Primary African Connectivity Backbone: 
+    * This area is a major transit corridor for cables like the Africa Coast to Europe (ACE) and the West Africa Cable System (WACS), which provide the primary high-speed internet and telecommunications link for over 20 West African nations.
+- Intercontinental Data Rerouting: 
+    * The perimeter serves as a vital junction where cables from Europe, South America, and Africa converge. This geographic "switchboard" allows for network resiliency, ensuring that data can be rerouted if cables in other parts of the Atlantic are damaged by anchors or seismic activity.
+- Establishment of Digital Hubs: 
+    * The proximity of this network has allowed Cape Verde to leverage its position to become a regional ICT hub, attracting data centers and tech investment by offering low-latency connections to both Europe and the Americas.
+- High-Capacity for Emerging Tech: 
+    * Modern cables in this zone, such as Meta's Project Waterworth, are designed with up to 24 fiber pairs to support the massive bandwidth requirements of AI-driven services and global cloud platforms.
+- Oceanic and Seismic Monitoring: 
+    *Infrastructure in this region is increasingly being used for SMART (Scientific Monitoring And Reliable Telecommunications) purposes. Sensors attached to the cables monitor ocean temperatures and seismic activity, providing essential data for climate change research and early tsunami warning systems.
 
+---
 
 [Index2](#harvest-index2)
 

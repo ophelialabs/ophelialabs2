@@ -57,7 +57,7 @@ Implanting them in their ***SLEEP***.
 
 ---
 
-  * Isolation: 
+  * [Fear](): 
   * ***Effecfive Mis-Direction***: Think `webhooks`. If not...think [Hooking A Fish](), and how far it is reeled in.
 
 ### Two sides to every **coin**: 

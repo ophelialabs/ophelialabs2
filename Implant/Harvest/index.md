@@ -8,7 +8,7 @@ The "1,000km perimeter" likely refers to the regional influence and coverage are
 - Seafloor Monitoring: 
     * Submarine cables in this region are increasingly equipped with sensors for Scientific Monitoring And Reliable Telecommunications (SMART). These allow for real-time tracking of seismic activity and ocean temperatures, which are critical for climate change research and early tsunami detection.
 - High-Capacity Data Hub: 
-    * The system has a design capacity of 40Tbps, enabling the rapid transfer of massive datasets required for AI research, cloud computing, and international financial markets in emerging economies.
+    * The system has a design capacity of 40Tbps, enabling the rapid transfer of massive datasets required for ***AI research***, ***cloud computing***, and international financial markets in emerging economies.
 - Economic Catalyst: 
     * This network infrastructure supports new business opportunities in sectors like gaming, education, and enterprise services by providing reliable and affordable bandwidth to previously underserved regions. 
 

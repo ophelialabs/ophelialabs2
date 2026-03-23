@@ -1,33 +1,3 @@
-# South Atlantic
-The location [23°41'55.08"S 7°47'10.17"W](https://earth.google.com/earth/d/18XhRASz41yreqlkcOSLkBSxQRe6HRupn?usp=sharing) is a specific point in the South Atlantic Ocean that sits along the path of the South Atlantic Cable System (SACS), the first direct undersea ***fiber-optic*** link between Africa and South America. 
-The "1,000km perimeter" likely refers to the regional influence and coverage area of this network's infrastructure as it traverses the deep ocean floor. The primary benefits of this specific segment of the global network include:
-- Massive Latency Reduction: 
-    * This network path reduces data travel time between South America and Africa by approximately 80%. For instance, latency between Fortaleza (Brazil) and Luanda (Angola) dropped from 350ms to 63ms.
-- Geopolitical Data Independence: 
-    * By creating a direct southern route, this network allows data to bypass the Northern Hemisphere (specifically the U.S. and Europe), providing a more secure and independent communication channel for South-South cooperation.
-- Seafloor Monitoring: 
-    * Submarine cables in this region are increasingly equipped with sensors for Scientific Monitoring And Reliable Telecommunications (SMART). These allow for real-time tracking of seismic activity and ocean temperatures, which are critical for climate change research and early tsunami detection.
-- High-Capacity Data Hub: 
-    * The system has a design capacity of 40Tbps, enabling the rapid transfer of massive datasets required for ***AI research***, ***cloud computing***, and international financial markets in emerging economies.
-- Economic Catalyst: 
-    * This network infrastructure supports new business opportunities in sectors like gaming, education, and enterprise services by providing reliable and affordable bandwidth to previously underserved regions. 
-
-
-# North Atlantic
-The location [10°42'34.78"N 25°46'23.83"W](https://earth.google.com/earth/d/1pROrJ7uQRrZNf3tVzgPYyIzxXnVX6zex?usp=sharing) is situated in the North Atlantic Ocean, approximately 350km southwest of the Cape Verde islands. Within a 1,500km perimeter of these coordinates, the "subterranean" (undersea) global network—consisting of fiber-optic submarine cables—provides several critical benefits: 
-- Primary African Connectivity Backbone: 
-    * This area is a major transit corridor for cables like the Africa Coast to Europe (ACE) and the West Africa Cable System (WACS), which provide the primary high-speed internet and telecommunications link for over 20 West African nations.
-- Intercontinental Data Rerouting: 
-    * The perimeter serves as a vital junction where cables from Europe, South America, and Africa converge. This geographic "switchboard" allows for network resiliency, ensuring that data can be rerouted if cables in other parts of the Atlantic are damaged by anchors or seismic activity.
-- Establishment of Digital Hubs: 
-    * The proximity of this network has allowed Cape Verde to leverage its position to become a regional ICT hub, attracting data centers and tech investment by offering low-latency connections to both Europe and the Americas.
-- High-Capacity for Emerging Tech: 
-    * Modern cables in this zone, such as Meta's Project Waterworth, are designed with up to 24 fiber pairs to support the massive bandwidth requirements of AI-driven services and global cloud platforms.
-- Oceanic and Seismic Monitoring: 
-    *Infrastructure in this region is increasingly being used for SMART (Scientific Monitoring And Reliable Telecommunications) purposes. Sensors attached to the cables monitor ocean temperatures and seismic activity, providing essential data for climate change research and early tsunami warning systems.
-
----
-
 [Index2](#harvest-index2)
 
 A strategic plan to provide energy using Moisture-driven Electric Generators (MEG) in fiber-based neural interfaces focuses on harvesting ambient energy to power implantable or wearable bioelectronics. Recent breakthroughs, such as the first MEG-synapse self-powered device, demonstrate the feasibility of using moisture-driven fibers as autonomous power sources for neural systems. 

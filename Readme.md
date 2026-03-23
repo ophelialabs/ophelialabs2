@@ -67,6 +67,11 @@ Implanting them in their ***SLEEP***.
 10. The [***PATCH***](#Implant-index3)
 11. [Spiritual/Full Benefits/Neutralize](): 
 
+## ALL OF A SUDDEN
+- The realization of `FISH` analogies out of nowhere
+- Pufferfish and Clownfish: Pufferfish when you like... She cute
+- Clownfish when you like I want to make her laugh. 
+
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities
 2. [Bostonpiezooptics](https://www.bostonpiezooptics.com/optical-components): A resource for Optical Components

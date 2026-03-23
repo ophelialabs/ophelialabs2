@@ -18,3 +18,5 @@
 - [Amira](https://www.thermofisher.com/us/en/home/electron-microscopy/products/software-em-3d-vis/amira-software.html): Offers 3D visualization and analysis for neuroscience research, with a specific focus on brain perfusion imaging data.
 - [MIMneuro](https://www.mimsoftware.com/nuclear-medicine/mim-neuro): A software package for reviewing neuroimaging exams and gathering results, often used for PET scans. 
 - [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org/): A resource for finding a wide range of neuroimaging software applications and other tools.
+
+---

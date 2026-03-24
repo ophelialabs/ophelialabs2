@@ -1,5 +1,3 @@
-# Whether you are CEO or CIC
-
 <div style="text-align: left;">
   <img src="Content/Screenshot from 2026-03-18 08-14-12.png" alt="Centered image" width="600" height="400">
 </div>

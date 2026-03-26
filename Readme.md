@@ -67,7 +67,7 @@ Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhoo
  - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
     * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)
  - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)
-    * [Elk Code, ABINIT, NOMAD](https://share.google/aimode/addbPfeCCFVL7ojYL)
+    * [Elk Code](https://elk.sourceforge.io/), [ABINIT](https://www.abinit.org/)/[VASP](https://vasp.at), [NOMAD](https://nomad-lab.eu/), [Together](https://share.google/aimode/addbPfeCCFVL7ojYL)
  - [Springer Training](https://www.springernature.com/gp/librarians/tools-services/learn/tutorials-training-sessions/databases)
 
 # Citations

@@ -65,7 +65,7 @@ Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhoo
  - [Thinking ahead and creating reusable code (generic constraints)](https://www.youtube.com/watch?v=0qtwYT4n2CM)
  - [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
  - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
-    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)
+    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)/[YT](https://www.youtube.com/@chemicalqdevice)
  - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)
     * [Elk Code](https://elk.sourceforge.io/), [ABINIT](https://www.abinit.org/)/[VASP](https://vasp.at), [NOMAD](https://nomad-lab.eu/) > [Together](https://share.google/aimode/addbPfeCCFVL7ojYL)
  - [Springer Training](https://www.springernature.com/gp/librarians/tools-services/learn/tutorials-training-sessions/databases)

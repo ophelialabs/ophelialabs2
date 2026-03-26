@@ -62,8 +62,7 @@ Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhoo
 
  ### Training
  - [MatSCI](https://matsci.org/)
- - [Thinking ahead and creating reusable code (generic constraints)](https://www.youtube.com/watch?v=0qtwYT4n2CM)
- - [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
+ - [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
  - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
     * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)([YT](https://www.youtube.com/@chemicalqdevice))
  - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)

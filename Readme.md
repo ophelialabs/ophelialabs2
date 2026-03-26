@@ -64,7 +64,7 @@ Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhoo
  - [ASE](https://ase-lib.org/examples_generated/tutorials/ase_database.html) / [MatSCI](https://matsci.org/) / [SciX](https://scixplorer.org/) ([YT](https://www.youtube.com/watch?v=7ELEYN5L49U), If memory serves - KQL?) 
  - [Generic Constraints](https://www.youtube.com/watch?v=0qtwYT4n2CM) / [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
  - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
-    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)([YT](https://www.youtube.com/@chemicalqdevice))
+    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main) ([YT](https://www.youtube.com/@chemicalqdevice))
  - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)
     * [Elk Code](https://elk.sourceforge.io/), [ABINIT](https://www.abinit.org/)/[VASP](https://vasp.at), [NOMAD](https://nomad-lab.eu/), [GPAW](https://gpaw.readthedocs.io/) > [Together](https://share.google/aimode/addbPfeCCFVL7ojYL)
  - [Springer Training](https://www.springernature.com/gp/librarians/tools-services/learn/tutorials-training-sessions/databases)
@@ -79,3 +79,4 @@ Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhoo
 7. [In Vivo Evaluation of Thermally Drawn BiodegradableOptical Fibers as Brain Implants](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.b.35549)
 8. [Emerging fiber-based neural interfaces with conductive composites](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k)
 10. [18^th Annual](https://star.spaceops.org/2025/user_manudownload.php?doc=510__1kjy24iu.pdf)
+11. [QUEEN](https://www.researchgate.net/publication/370615393_HyperQUEEN_Hyperspectral_Quantum_Deep_Network_For_Image_Restoration)

@@ -18,7 +18,7 @@
 </div>
 
 DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed implantable, high-resolution [neural interfaces](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k).
-Implanting them in their ***SLEEP***.
+Implanting them in their ***SLEEP***. **Effecfive Mis-Direction**: Think `webhooks`, or... ***Hooking A Fish***, and how far it is reeled in.
 
 ## Verbatim (Note: The Order of Operations)
 1. "***[AI](https://www.ai.mil/Initiatives/CJADC2/)*** is going to learn a lot"
@@ -57,12 +57,17 @@ Implanting them in their ***SLEEP***.
 
 ---
 
-  * [Fear](): 
-  * ***Effecfive Mis-Direction***: Think `webhooks`. If not...think [Hooking A Fish](), and how far it is reeled in.
-
 ### Two sides to every **coin**: 
 10. The [***PATCH***](#Implant-index3)
-11. [Spiritual/Full Benefits/Neutralize](): 
+
+ ### Training
+ - [MatSCI](https://matsci.org/)
+ - [Thinking ahead and creating reusable code (generic constraints)](https://www.youtube.com/watch?v=0qtwYT4n2CM)
+ - [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
+ - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
+    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)
+ - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)
+ - [Springer Training](https://www.springernature.com/gp/librarians/tools-services/learn/tutorials-training-sessions/databases)
 
 # Citations
 1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities

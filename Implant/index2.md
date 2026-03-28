@@ -4,7 +4,7 @@
 
 #### *Based on the principles of minimally-invasive fiber-based neural interfaces (FED/BMI), irritation can be caused due to a combination of mechanical friction, foreign body reactions, and localized skin sensitivity* **(injection site)**.
 
-Why these specific areas are PRONE to irritation:
+Why these specific areas (Retroauricular, Apex) are *prone* to irritation:
 
 1. Behind the Ear: Pressure and Allergic Reaction
    The are behind the ear is often used for mounting components

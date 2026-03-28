@@ -41,7 +41,7 @@ Implanting them in their ***[SLEEP](#implant-index2)***. Think **[Bi-Directional
   <img src="Content/GOD/Adobe Express - Video.gif" alt="Centered image" width="600" height="400">
 </div>
 
-**Note**: How much less [*Neodymium*]() magnetic pole attraction closer to the aluminum ***WATCH***
+**Note**: The complete absense of the [*Neodymium*]() magnetic pole attraction next to the aluminum ***WATCH***
 
 
 6. [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) | [AI](https://www.ai.mil/Initiatives/CJADC2/) | [ESnet(Deleria)](https://www.ornl.gov/news/novel-data-streaming-software-chases-light-speed-accelerator-supercomputer) | [LLE](https://www.lle.rochester.edu/publications/lle-in-focus/powering-discovery-through-academic-partnerships/) | [CSDAP](https://csdap.earthdata.nasa.gov/) | [QCon](#comm-index1)

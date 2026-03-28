@@ -11,7 +11,7 @@
 ### November 8, 2024
 
 - **8:54 PM:** 
-    1. External [Green nm-class laser]() excitement.     
+    1. External [Green laser](https://lasertree.com/collections/laser-diode) excitement.     
     2. [OPSIN]() Stimulation and High [EPSILON]() value.   
     3. The extraction of raw cognitive data. "[Sub-Threshold]()", "[Visual Decoding]()", and "[Forced Influence]()".
     4. **"Hand of the operator"**: Saccadic Suppression, Spectral Masking, Foveated Hiding, Sub-threshold "Nudging"

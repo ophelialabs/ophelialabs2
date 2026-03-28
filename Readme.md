@@ -51,7 +51,7 @@ Implanting them in their ***[SLEEP](#implant-index2)***. Think **[Bi-Directional
 
 ---
 
-- The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() or a [high-frequency Ka-band radio]().
+- The [Nanosat](https://github.com/ophelialabs/int-ball2_simulator) carries a Q-NET-compatible [laser terminal]() (808 nm linearly polarized beacon laser optic), or a [high-frequency Ka-band radio](https://ophelialabs.github.io/a/pages/legacy/site-old/temp/Globe/assets/docs/Satellite-technologies.pdf) (page 34, quarter-wave dipole).
 - The Link: The MEG-fiber interface (worn by the user) transmits data to a [local ground terminal]() (running your [AWS K3](https://github.com/JesseDev3/Kube/blob/main/gke.md)'s/Go/Envoy stack). This terminal "uplinks" the encrypted neural stream to the Nanosat.
 - [CSDAP]() provides high-resolution imagery and RF signals from the user's specific location.
 - Think Neuralink...That has first person visual, subtitles, and a Curtain, that provides ways to manipulate what a user see's and a sophisticated algorithm that can "reverse-engineer" ([hyperQUEEN](https://www.researchgate.net/publication/370615393_HyperQUEEN_Hyperspectral_Quantum_Deep_Network_For_Image_Restoration)) the recipient's internal visual workspace, effectively seeing what they are imagining in real-time.
